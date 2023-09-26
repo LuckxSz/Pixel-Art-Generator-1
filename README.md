@@ -1,8 +1,25 @@
-<strong>Pixel Art Generator using html, css and javascript <br>
-you can acess this project here : https://luckxsz.github.io/Pixel-Art-Generator/<strong/>
+<strong><div align="center">
+ 📹 Project Showcase
 
-![image](https://github.com/LuckxSz/Pixel-Art-Generator/assets/135531180/7d7c9dc0-d201-446b-adeb-0d6ea6a0adef)
-![Screenshot from 2023-09-26 14-08-32](https://github.com/LuckxSz/Pixel-Art/assets/135531180/848a5493-dfbf-4687-8bd6-9226e16adbea)
-![Screenshot from 2023-09-26 14-09-17](https://github.com/LuckxSz/Pixel-Art/assets/135531180/83796bd8-2d97-490d-911e-993aba3097fe)
+  <video src="https://github.com/LuckxSz/Pixel-Art-Generator/assets/135531180/723e71c6-b35f-4536-88ae-33e51a465e20">
+</div>
 
 
+> **If the video has an error, reload the page!**<br>
+> Access the online project here  **[AQUI](https://luckxsz.github.io/Pixel-Art-Generator/)**
+
+
+## 🤓Technologies Used
+
+-   [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## 📝 About
+
+I did this project just with the intention of practicing and learn java-script, I will be developing a series of consecutive projects (with the goal of one per day)
+<strong/>
+
+
+## 🥰 Pixel-Art
+![Screenshot from 2023-09-26 14-22-24](https://github.com/LuckxSz/Pixel-Art-Generator/assets/135531180/a9c82c69-aeac-4ea6-8dce-5a8add481c4a)
